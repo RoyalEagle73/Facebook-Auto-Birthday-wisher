@@ -4,8 +4,7 @@ Simple tool that let's you wish all of your friend's having birthday at a single
 ## NOTE : GUI VERSION WILL BE AVAILABLE SOON.
 
 # HOW MUCH SECURE IS THIS :
-    ## This script uses your login for the login purposes only and does'nt saves it anywhere, concerning users can see the code on
-     their own.
+  ## This script uses your login for the login purposes only and does'nt saves it anywhere, concerning users can see the code on their own.
 
 # REQUIREMENTS:
   1) Tkinter
@@ -27,6 +26,6 @@ Simple tool that let's you wish all of your friend's having birthday at a single
   7) Enjoy the hassel free usage without any cost.
   
  # SCREENSHOTS :
-    ## SCREENSHOTS ARE AVAILABLE IN WIKI SECTION OR [Click Here](https://github.com/RoyalEagle73/Facebook-Auto-Birthday-wisher/wiki/SCRIPT-SCREESHOTS)
+   ## SCREENSHOTS ARE AVAILABLE IN WIKI SECTION OR [Click Here](https://github.com/RoyalEagle73/Facebook-Auto-Birthday-wisher/wiki/SCRIPT-SCREESHOTS)
   
  # DO LET ME KNOW IF YOU ENCOUNTER ANY ISSUE, and STAR THIS REPOSITORY IF YOU LIKED THE SCRIPT.
