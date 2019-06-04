@@ -1,19 +1,34 @@
 # Facebook-Auto-Birthday-wisher
 Simple tool that let's you wish all of your friend's having birthday at a single click, with customised wish or the default one.
 
+
+
 ## NOTE : GUI VERSION WILL BE AVAILABLE SOON.
+
+
 
 # HOW MUCH SECURE IS THIS :
   ## This script uses your login for the login purposes only and does'nt saves it anywhere, concerning users can see the code on their own.
 
+
+
 # REQUIREMENTS:
+## For Normal Script Users:
   1) Tkinter
   2) BeautifulSoup
   3) Selenium
   4) Re
   5) Linux Distro
+
+## For Window Users
+  1) If script doesn't works, try changing chrome webdriver according to your installed Chrome version. Current version supports Chrome v74
+  [ChromeDriver Download Here](http://chromedriver.chromium.org/downloads)
+  
+  
+  
   
 # HOW TO USE: 
+## For Script Users:
   1) Download the source folder.
   2) Visit the folder and open a terminal.
   3) Open the script using the command as :
@@ -24,6 +39,9 @@ Simple tool that let's you wish all of your friend's having birthday at a single
   6) Screen may appear dead but wait for sometime, till updates appear on terminal window and a seperate UI window appears showing
      the success.
   7) Enjoy the hassel free usage without any cost.
+  
+## For Windows:
+[ChromeDriver Download Here](http://chromedriver.chromium.org/downloads)
   
  # SCREENSHOTS :
    ## SCREENSHOTS ARE AVAILABLE IN WIKI SECTION OR [Click Here](https://github.com/RoyalEagle73/Facebook-Auto-Birthday-wisher/wiki/SCRIPT-SCREESHOTS)
