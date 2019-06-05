@@ -3,7 +3,7 @@ Simple tool that let's you wish all of your friend's having birthday at a single
 
 
 
-## NOTE : GUI VERSION WILL BE AVAILABLE ONLY FOR WINDOWS.
+### Now available for LINUX AND WINDOWS both.
 
 
 
