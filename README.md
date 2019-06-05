@@ -13,21 +13,28 @@ Simple tool that let's you wish all of your friend's having birthday at a single
 
 
 # REQUIREMENTS:
+
+## For Linux Users
+  No prequisites.
+
+## For Window Users
+  1) If script doesn't works, try changing chrome webdriver according to your installed Chrome version. Current version            supports Chrome v74
+  [ChromeDriver Download Here](http://chromedriver.chromium.org/downloads) 
+ 
 ## For Normal Script Users:
   1) Tkinter
   2) BeautifulSoup
   3) Selenium
   4) Re
   5) Linux Distro
-
-## For Window Users
-  1) If script doesn't works, try changing chrome webdriver according to your installed Chrome version. Current version supports Chrome v74
-  [ChromeDriver Download Here](http://chromedriver.chromium.org/downloads)
-  
-  
-  
   
 # HOW TO USE: 
+
+## For Linux Users
+  1) Download or clone the git.
+  2) Open the location and open the folder "LINUX Executable".
+  3) Run the executable file.
+  
 ## For Script Users:
   1) Download the source folder.
   2) Visit the folder and open a terminal.
